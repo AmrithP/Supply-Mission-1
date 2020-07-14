@@ -5,7 +5,7 @@ var packageBody,ground
 var background1, backgroundIMG;
 var text1, text1Image, text2, text2Image;
 
-//niknames are created
+//namespaces are created
 
 const Engine = Matter.Engine;
 const World = Matter.World;
