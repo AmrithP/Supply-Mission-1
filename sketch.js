@@ -98,7 +98,6 @@ function draw() {
 
   drawSprites(); 
 
-  console.log(packageBody);
  
 }
 
